@@ -1,6 +1,6 @@
-<img src="https://storage.googleapis.com/lc-edu/marketing-assets/logo-w-wordmark_for-light-bg.png"
+<img src="https://storage.googleapis.com/lc-edu/marketing-assets/github-banner.jpeg"
      alt="LimaCharlie.io Logo"
-     style="width: 60%; padding-bottom: 40px;" />
+     style="width: 100%; padding-bottom: 40px;" />
      
 <p>LimaCharlie provides information security tools and infrastructure designed for massive scale. The platform supplies all the tools to run an MSSP or SOC as well as providing API’s that allow users to build and monetize their own products.</p>
 
