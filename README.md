@@ -26,7 +26,7 @@
 
 <p>LimaCharlie provides a true-real-time Endpoint Detection & Response (EDR) capability. Verbose telemetry is streamed from the endpoint sensor to the cloud in real-time over a semi-persistent TLS connection. Response actions are taken on the endpoint within 100ms of the triggering action or behaviour.</p>
 
-<p>Endpoint telemetry is ingested and analyzed in-flight by the Detection & Response Engine (DRE). Telemetry can be tested against thousands of rules without impacting performance.</p>
+<p>Endpoint telemetry is ingested and analyzed in-flight by the Detection & Response Engine. Telemetry can be tested against thousands of rules without impacting performance.</p>
 
 <p>LimaCharlie’s EDR sensor generates telemetry for a wide variety of <a href="https://doc.limacharlie.io/docs/documentation/ZG9jOjE5MzExMDQ-events">event data</a> that is delivered in a common JSON format.</p>
 
