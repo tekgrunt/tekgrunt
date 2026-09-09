@@ -2,7 +2,7 @@
 
 CCO at [LimaCharlie](https://limacharlie.io) ([@refractionPOINT](https://github.com/refractionPOINT)) — a SecOps platform that treats security infrastructure the way the rest of software treats infrastructure: as code, on demand, priced by what you use.
 
-I co-host The Cybersecurity Defenders Podcast.
+I host The Cybersecurity Defenders Podcast.
 
 Most of what's here started as a tool I needed for one job, and turned out to be general.
 
